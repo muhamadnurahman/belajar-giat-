@@ -2,3 +2,4 @@ BELAJAR GIT
 1.belajar sambil memparaktekkan apa yang dilihat di yt
 2.terus konsisten
 3.membuat projek dan upload di github
+4.menambah projek lagi
